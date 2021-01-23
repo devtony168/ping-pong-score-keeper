@@ -2,4 +2,4 @@
 
 URL: https://newyentony.github.io/ping-pong-score-keeper/
 
-Made with Bulma as CSS framework. 
+Made with Bulma CSS. 
